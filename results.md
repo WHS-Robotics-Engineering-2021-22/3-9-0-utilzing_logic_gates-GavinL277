@@ -1,0 +1,1 @@
+In the first video it shows the first circuit where when one of the switches is on it works or when both are on but when they are both off it does not work. this works because the swith stores the power.
